@@ -1,0 +1,19 @@
+{
+  "name": "wordprss_proj",
+  "version": "1.0.0",
+  "description": "little wordpress project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDzDeveloper/wordpress_project.git"
+  },
+  "author": "AlexDz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexDzDeveloper/wordpress_project/issues"
+  },
+  "homepage": "https://github.com/AlexDzDeveloper/wordpress_project#readme"
+}
